@@ -1,0 +1,6 @@
+{
+  "name": "三倍工资 可视化工资时薪计算器",
+  "description": "一个帮助用户计算真实时薪的工具，支持将月薪转换为加班制工时，包含法定加班费倍率折算功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
